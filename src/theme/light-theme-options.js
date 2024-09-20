@@ -32,9 +32,9 @@ const divider = "#E6E8F0";
 
 const primary = {
   main: "#F34E0C",
-  deep: "#026034",
+  deep: "#F34E0C",
   light: "#EBFDF2",
-  dark: "#1c6641",
+  dark: "#F34E0C",
   semiLight: "#E4FFF3",
   contrastText: "#FFFFFF",
   customType1: "#0DCB72",
