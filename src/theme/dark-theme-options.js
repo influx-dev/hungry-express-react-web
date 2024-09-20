@@ -17,7 +17,8 @@ const neutral = {
 const moduleTheme = {
   pharmacy: "#31C0F5",
   ecommerce: "#EEF5FF",
-  food: "#EF7822",
+  food: "#F34E0C",
+  // food: "#EF7822",
   parcel: "#D7EFE4",
 };
 
@@ -40,7 +41,7 @@ const foodCardColor = neutral[800];
 const roundStackOne = "rgba(255, 255, 255, 0.04)";
 const roundStackTwo = "rgba(255, 255, 255, 0.06)";
 const primary = {
-  main: "#039D55",
+  main: "#F34E0C",
   light: "#909BEF",
   dark: "#1c6641",
   deep: "#026034",
